@@ -1,0 +1,78 @@
+.productForm {
+  padding: 20px;
+  margin-top: 15px;
+}
+
+.productForm .field-group {
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.productForm form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.productForm .field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0 !important;
+  margin-right: 20px;
+}
+
+.productForm .field label {
+  margin-bottom: 0px;
+  margin-right: 10px;
+}
+
+.productForm input {
+  width: 100%;
+}
+
+.productForm .subtitle.is-3 {
+  margin-bottom: 10px;
+}
+
+.productList h1 {
+  font-size: 24px;
+}
+
+.productList .panel {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #dbdbdb;
+  border-radius: 30px;
+}
+
+.productList button {
+  width: 100px;
+}
+
+.listHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.listHeader h3.title {
+  margin-bottom: 0px;
+}
+
+.listHeader .search {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.listHeader .search .label {
+  margin-bottom: 0px;
+  margin-right: 10px;
+}
+
+.productPrice {
+  margin: 15px;
+  text-align: right;
+  font-size: 2rem;
+}
